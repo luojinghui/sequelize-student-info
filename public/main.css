@@ -1,0 +1,16 @@
+th {
+    text-align: center;
+}
+
+.container {
+    background-color: rgba(242, 242, 242, 0.07);
+}
+
+.form-control {
+    width: 20%;
+    display: inline;
+}
+
+.form-horizontal {
+    text-align: center;
+}
